@@ -10,3 +10,7 @@ Current production release (Note: does not contain mobile APIs - see v3.7 releas
 [UXP Tools for Mac v4.0.1](https://github.com/Sertainty-Co/Sertainty-SDK/releases/tag/Mac-v4.0.1)
 
 [UXP Tools for Linux v4.0.1](https://github.com/Sertainty-Co/Sertainty-SDK/releases/tag/Linux-v4.0.1)
+
+# API documentation
+
+[API documentation - C language](https://github.com/Sertainty-Co/Sertainty-SDK/releases/tag/API)
