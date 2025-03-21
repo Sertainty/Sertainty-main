@@ -19,15 +19,11 @@ Current production release (Note: does not contain mobile APIs - see v3.7 releas
 
 # API documentation
 
-[API documentation - C language](https://github.com/Sertainty-Co/Sertainty-SDK/releases/tag/API)
-
-[API documentation - C++ language](https://github.com/Sertainty-Co/Sertainty-SDK/releases/tag/API-C%2B%2B)
-
-[API documentation - C# langauge](https://github.com/Sertainty-Co/Sertainty-SDK/releases/tag/API-C%23)
+API documentation is located on the Wiki page as well as included with each SDK kit
 
 # Technology Documentation
 
-[Tech Documentation](https://github.com/Sertainty-Co/Sertainty-SDK/releases/tag/Tech-docs)
+Technical documentation is located on the Wiki page as well as included with each SDK kit
 
 # Code Examples
 
