@@ -3,3 +3,5 @@
 # Release kits - Sertainty-SDK
 
 [UXP Tools for Mac v4.0.1](https://github.com/Sertainty-Co/Sertainty-SDK/releases/tag/Mac-v4.0.1)
+
+[UXP Tools for Windows v4.0.1](https://github.com/Sertainty-Co/Sertainty-SDK/releases/tag/Win-v4.0.1)
