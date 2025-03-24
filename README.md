@@ -47,4 +47,4 @@ Code examples are included in each SDK:
 
 # Data Protector vidoe tutuorial series
 
-
+[Data Protector tutorial wiki page](https://github.com/Sertainty-Co/Sertainty-SDK/wiki/Section-3-%E2%80%90-Data-Protector-tutorial)
