@@ -45,6 +45,8 @@ Technical documentation is located on the Wiki page as well as included with eac
 Code examples are included in each SDK:
   - for C, C++, C#, UXL (scripting), Mobile
 
-# Data Protector vidoe tutuorial series
+# Data Protector video tutuorial series
 
 [Data Protector tutorial wiki page](https://github.com/Sertainty-Co/Sertainty-SDK/wiki/Section-3-%E2%80%90-Data-Protector-tutorial)
+
+[Sample usescases wiki page](https://github.com/Sertainty-Co/Sertainty-SDK/wiki/Section-4-%E2%80%90-Data-Protector-Usecases)
