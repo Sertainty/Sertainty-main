@@ -6,16 +6,6 @@ UXP combines intelligence, protection and user datasets to transform data into a
 
 The UXP Object is an intelligent protective shell around critical data. It’s capable of managing and controlling its own access to ultimately keep its content protected in any location. In this form, it acts and reacts based on owner-defined policy(s) beyond the owner’s environment. The data control remains with the owner at all times. It is never relinquished to an application nor vulnerable to super-user access. 
 
-# Licensing and contact info
-
-- email  tech-support@sertainty.com
-
-  - Evaluation license / limited functionality and timeframe
-  - Development license
-
-- email  sales@sertainty.com
-  
-  - Sales / Production license and pricing
 
 # Release kits - Sertainty-SDK
 
@@ -50,3 +40,15 @@ Code examples are included in each SDK:
 [Data Protector tutorial wiki page](https://github.com/Sertainty-Co/Sertainty-SDK/wiki/Section-3-%E2%80%90-Data-Protector-tutorial)
 
 [Sample usescases wiki page](https://github.com/Sertainty-Co/Sertainty-SDK/wiki/Section-4-%E2%80%90-Data-Protector-Usecases)
+
+# Licensing and contact info
+
+- email  tech-support@sertainty.com
+
+  - Evaluation license / limited functionality and timeframe
+  - Development license
+
+- email  sales@sertainty.com
+  
+  - Sales / Production license and pricing
+
