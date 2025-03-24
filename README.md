@@ -32,7 +32,7 @@ Current production release (Note: does not contain mobile APIs - see v3.7 releas
 
 API documentation is located on the Wiki page as well as included with each SDK kit
 
-[API Wiki page](https://github.com/Sertainty-Co/Sertainty-SDK/wiki/API-documentation)
+[API Wiki page](https://github.com/Sertainty-Co/Sertainty-SDK/wiki/Section-1-%E2%80%90-API-documentation)
 
 # Technology Documentation
 
