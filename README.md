@@ -46,8 +46,11 @@ Technical documentation is located on the Wiki page as well as included with eac
 
 Code examples are included in each SDK:
   - for C, C++, C#, UXL (scripting), Mobile
+  - [Code examples]
 
 # Data Protector video tutuorial series
+
+The Data Protector is a client-side desktop application that facilitates the configuration in support of an autmoated file protection and access workflow.  Each video demostrates the steps to prepare and setup a workflow. 
 
 [Data Protector tutorial wiki page](https://github.com/Sertainty-Co/Sertainty-SDK/wiki/Section-3-%E2%80%90-Data-Protector-tutorial)
 
