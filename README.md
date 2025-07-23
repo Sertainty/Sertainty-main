@@ -31,10 +31,13 @@ Technical documentation is located on the Wiki page as well as included with eac
 
 [Tech doc wiki page](https://github.com/Sertainty/Sertainty-main/wiki/Section-2-%E2%80%90-UXP-Technical-Guides-and-Overview-Documentation)
 
-### [Code Samples - repo ](https://github.com/Sertainty/Code_samples)
+### Code examples
 
 Code examples are included in each SDK:
   - for C, C++, C#, UXL (scripting), Mobile
+
+[Code Samples - repo ](https://github.com/Sertainty/Code_samples)
+
 
 ### Data Protector video tutuorial series - wiki
 
